@@ -1,0 +1,12 @@
+# .NET
+*.user
+*.suo
+*.cache
+*.log
+bin/
+obj/
+.vscode/
+.idea/
+.vs/
+.history/
+*.csproj.user
