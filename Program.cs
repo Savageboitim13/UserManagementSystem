@@ -6,7 +6,7 @@ using UMS.Utility;
 namespace UMS {
     internal class Program {
         public static void Main(string[] args) {
-        // Panel.Display();
+        Panel.Display();
         
         StdMsgs.EndApplication();
         }
